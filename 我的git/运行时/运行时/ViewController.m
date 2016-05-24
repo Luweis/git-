@@ -17,6 +17,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //aklkakskda;kd;lka;ksd;alk;ldalkd;lak;da;lk;ldka;lkd;la;kd;la;ldk
+    //akdksakd;l
 }
 +(void)initialize{
     [self getIvars];
